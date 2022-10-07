@@ -1,39 +1,58 @@
 {
-    "plants": [
-      {
-        "id": 1,
-        "name": "pinkrose",
-        "imageUrl": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
-        "description": "Pink roses symbolize gratitude, grace, and joy. Overall, pink roses suggest a gentleness compared to the typical bright red rose. They are seen as a token of admiration when given to someone. Just like with red roses, pink's varying shades all have different rose color meanings."
-      },
-      {
-        "id": 2,
-        "name": "sunflower",
-        "imageUrl": "https://images.unsplash.com/photo-1637257819610-7fd057126988?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
-        "description": "sunflower. The common sunflower (H. annuus) is an annual herb with a rough hairy stem 1–4.5 metres (3–15 feet) high and broad, coarsely toothed, rough leaves 7.5–30 cm (3–12 inches) long arranged in spirals. The attractive heads of flowers are 7.5–15 cm wide in wild specimens and often 30 cm or more in cultivated types ..."
-      },
-      {
-        "id": 3,
-        "name": "mahogany",
-        "imageUrl": "https://thumbs.dreamstime.com/b/isolated-mahogany-tree-white-background-landscape-design-usage-isolated-mahogany-tree-white-background-landscape-216535454.jpg",
-        "description": "Mahogany is a straight-grained, reddish-brown timber of three tropical hardwood species of the genus Swietenia, indigenous to the America"
-      },
-      {
-        "id": 4,
-        "name": "blue gum tree",
-        "imageUrl": "https://i.pinimg.com/236x/71/54/c3/7154c3557d55c1b2c31a6a68fc1370a6.jpg",
-        "description": "Blue gum eucalyptus is a tall, fast-growing tree with blue-green leaves and shaggy bark. It is easy to know when you are standing in a eucalyptus grove because of the sweet menthol smell and the long strips of bark, dead leaves and hard brown fruits blanketing the ground."
-      },
-      {
-        "id": 5,
-        "name": "wattle tree",
-        "imageUrl": "https://www.discoverafrica.com/wp-content/uploads/2017/12/the_secrets_of_the_weeping_wattle_tree_2.jpg",
-        "description": "The Weeping Wattle tree is a semi-deciduous tree with a spreading, uneven canopy found in tropical and southern Africa."
-      },
-      {
-        "name": "bear",
-        "imageUrl": "ertyui",
-        "id": 6
-      }
-    ]
-  }
+  "plants": [
+    {
+      "id": 1,
+      "name": "pinkrose",
+      "imageUrl": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=627&q=80",
+      "description": "Pink roses symbolize gratitude, grace, and joy. Overall, pink roses suggest a gentleness compared to the typical bright red rose. They are seen as a token of admiration when given to someone. Just like with red roses, pink's varying shades all have different rose color meanings."
+    },
+    {
+      "id": 2,
+      "name": "sunflower",
+      "imageUrl": "https://images.unsplash.com/photo-1637257819610-7fd057126988?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "description": "sunflower. The common sunflower (H. annuus) is an annual herb with a rough hairy stem 1–4.5 metres (3–15 feet) high and broad, coarsely toothed, rough leaves 7.5–30 cm (3–12 inches) long arranged in spirals. The attractive heads of flowers are 7.5–15 cm wide in wild specimens and often 30 cm or more in cultivated types ..."
+    },
+    {
+      "id": 3,
+      "name": "mahogany",
+      "imageUrl": "https://thumbs.dreamstime.com/b/isolated-mahogany-tree-white-background-landscape-design-usage-isolated-mahogany-tree-white-background-landscape-216535454.jpg",
+      "description": "Mahogany is a straight-grained, reddish-brown timber of three tropical hardwood species of the genus Swietenia, indigenous to the America"
+    },
+    {
+      "id": 4,
+      "name": "blue gum tree",
+      "imageUrl": "https://i.pinimg.com/236x/71/54/c3/7154c3557d55c1b2c31a6a68fc1370a6.jpg",
+      "description": "Blue gum eucalyptus is a tall, fast-growing tree with blue-green leaves and shaggy bark. It is easy to know when you are standing in a eucalyptus grove because of the sweet menthol smell and the long strips of bark, dead leaves and hard brown fruits blanketing the ground."
+    },
+    {
+      "id": 5,
+      "name": "wattle tree",
+      "imageUrl": "https://www.discoverafrica.com/wp-content/uploads/2017/12/the_secrets_of_the_weeping_wattle_tree_2.jpg",
+      "description": "The Weeping Wattle tree is a semi-deciduous tree with a spreading, uneven canopy found in tropical and southern Africa."
+    },
+    {
+      "name": "red rose",
+      "imageUrl": "https://media.istockphoto.com/photos/bouquet-of-red-roses-on-a-black-background-top-view-picture-id582297490?k=20&m=582297490&s=612x612&w=0&h=vKjkdT_SoMQcUv3pZfx88lPKg9PdexjQRq3OqK-cNWQ=",
+      "description": "While red roses are synonymous with celebrating the joy and passion of love, they are also a special gift during times of grieving. Red roses are a beautiful way to convey your respect and love for someone who has passed and can also represent courage and gratitude.",
+      "id": 6
+    },
+    {
+      "name": "white rose",
+      "imageUrl": "https://media.istockphoto.com/photos/white-roses-as-a-background-picture-id177267010?k=20&m=177267010&s=612x612&w=0&h=z68IaOd4fCCy4yFlV5rm1-P2qqkHlOHpoo4eZLXn218=",
+      "description": "The white rose is the most versatile rose color. This flower is able to convey romance, appreciation, compassion and purity. White roses look great in bouquets .",
+      "id": 7
+    },
+    {
+      "name": "white rose",
+      "imageUrl": "https://media.istockphoto.com/photos/white-roses-as-a-background-picture-id177267010?k=20&m=177267010&s=612x612&w=0&h=z68IaOd4fCCy4yFlV5rm1-P2qqkHlOHpoo4eZLXn218=",
+      "description": "The white rose is the most versatile rose color. This flower is able to convey romance, appreciation, compassion and purity. White roses look great in bouquets .",
+      "id": 8
+    },
+    {
+      "name": "white rose",
+      "imageUrl": "https://media.istockphoto.com/photos/white-roses-as-a-background-picture-id177267010?k=20&m=177267010&s=612x612&w=0&h=z68IaOd4fCCy4yFlV5rm1-P2qqkHlOHpoo4eZLXn218=",
+      "description": "The white rose is the most versatile rose color. This flower is able to convey romance, appreciation, compassion and purity. White roses look great in bouquets .",
+      "id": 9
+    }
+  ]
+}
