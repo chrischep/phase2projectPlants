@@ -28,8 +28,8 @@ code {
   font-weight: bold;
 }
 .navlinks{
-padding: 2%;
-color: white;
+padding: 10%;
+
 }
 .cardlist{
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -85,3 +85,18 @@ input[type=text]{
     margin-bottom: 2%;
     border: none;
   }
+  .nav-list ul li{
+    margin-left: 8%;
+        display: inline-block;
+        padding-top: 3%; 
+        }
+    .nav-list{
+    width: 40%;
+        }
+    .nav-list ul li a{
+            color: rgb(250, 247, 247);
+            text-decoration: none;
+           }
+          .nav-list ul li a:hover{
+           border-bottom: 4px solid #0a0a0a ;
+        }
