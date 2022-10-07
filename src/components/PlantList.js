@@ -2,7 +2,7 @@ import React from 'react'
 
 const PlantList=({id,name,imageUrl,description}) =>{
   return (
-    <li >
+    <li className='cardlist'>
         <img src= {imageUrl}/>
         <div className='content'>
          <h2>{name}</h2> 

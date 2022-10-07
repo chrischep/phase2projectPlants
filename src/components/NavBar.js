@@ -18,6 +18,7 @@ function NavBar() {
 
    <NavLink to='organisation'>Organisation
    </NavLink>
+   
    </div>
   </nav>
   )
