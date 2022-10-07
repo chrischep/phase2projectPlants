@@ -49,7 +49,7 @@ function Home({plants,onAddNew}) {
       <div className="form">
     <h2>Upload plant here</h2>
     <div className="container">
-        <form id="car-form" onSubmit={handleSubmit}>
+        <form id="plant-form" onSubmit={handleSubmit}>
             <label for="name">Name</label>
             <input type="text" id="name" name="name" value={formdata.name} onChange={handleChange}/>
             <label for="name">Image URL</label>
