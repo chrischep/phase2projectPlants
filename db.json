@@ -43,16 +43,22 @@
       "id": 7
     },
     {
-      "name": "white rose",
-      "imageUrl": "https://media.istockphoto.com/photos/white-roses-as-a-background-picture-id177267010?k=20&m=177267010&s=612x612&w=0&h=z68IaOd4fCCy4yFlV5rm1-P2qqkHlOHpoo4eZLXn218=",
-      "description": "The white rose is the most versatile rose color. This flower is able to convey romance, appreciation, compassion and purity. White roses look great in bouquets .",
-      "id": 8
+      "name": "cedar tree",
+      "imageUrl": "https://media.istockphoto.com/photos/cedar-tree-in-the-mist-picture-id1299302540?b=1&k=20&m=1299302540&s=170667a&w=0&h=ZEvIwAa-H__yNmKh62_Uv84MLVUO3LDfq_byoMEzW0g=",
+      "description": "They are tall trees with large trunks and massive, irregular heads of spreading branches. Young trees are covered with smooth, dark-gray bark that becomes brown, fissured, and scaly with age.",
+      "id": 11
     },
     {
-      "name": "white rose",
-      "imageUrl": "https://media.istockphoto.com/photos/white-roses-as-a-background-picture-id177267010?k=20&m=177267010&s=612x612&w=0&h=z68IaOd4fCCy4yFlV5rm1-P2qqkHlOHpoo4eZLXn218=",
-      "description": "The white rose is the most versatile rose color. This flower is able to convey romance, appreciation, compassion and purity. White roses look great in bouquets .",
-      "id": 9
+      "name": "tulip flower",
+      "imageUrl": "https://image.shutterstock.com/image-photo/spring-tulips-floral-tulip-bunch-260nw-1673844967.jpg",
+      "description": "Tulips are erect flowers with long, broad, parallel-veined leaves and a cup-shaped, single or double flower at the tip of the stem. Colors of the flowers can range anywhere from red to yellow to white. Some tulips are varicolored as a result of a viral disease carried and transferred to the plants by aphids.",
+      "id": 12
+    },
+    {
+      "name": "Fir tree",
+      "imageUrl": "https://img1.wsimg.com/isteam/ip/24270600-66bb-409b-bc7a-032e46799f93/ols/Noble%20Fir.jpg/:/rs=w:1200,h:1200",
+      "description": "The firs are distinguished from other genera in the pine family by their leaves. The needlelike leaves of a true fir grow directly from the branch, and the needles' bases, which are shaped like suction cups, leave conspicuous circular scars when the leaves fall.",
+      "id": 13
     }
   ]
 }
