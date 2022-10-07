@@ -1,4 +1,4 @@
-## Car Sales
+##Plant display
 This is a website for displaying plants and the plant types
 
 ## Author
