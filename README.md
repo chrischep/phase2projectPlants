@@ -1,4 +1,4 @@
-##Plant display
+## Plant display
 This is a website for displaying plants and the plant types
 
 ## Author
@@ -14,7 +14,7 @@ Christine chepleting
 
 ## Demo setup Instructions
 Open your browser,
-Click on this [Link]( https://chrischep.github.io/JS-IPProjectPhase1/) to acces the website
+Click on this [Link]( https://github.com/chrischep/phase2projectPlants) to acces the website
 
 ## Installations
 fork the repository
